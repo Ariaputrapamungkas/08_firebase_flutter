@@ -1,16 +1,20 @@
 # firebase
 
-A new Flutter project.
+Nama: Aria Putra Pamungkas
+NIM : 2031710132
+Kelas: MI-2F
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![PNG 1](https://user-images.githubusercontent.com/79964056/175346696-33101f57-41c5-48cd-8008-bd63da0964f2.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![PNG 2](https://user-images.githubusercontent.com/79964056/175346762-ae402119-5cc3-4062-b4a8-26ec26be616e.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![PNG 3](https://user-images.githubusercontent.com/79964056/175346804-e0cf9eb6-ab89-4ceb-b33e-2ea233dd3269.jpeg)
+
+
+![PNG 4](https://user-images.githubusercontent.com/79964056/175346818-8227043d-d8ee-49e7-a2d7-b36aa54f808d.jpeg)
+
+
+
